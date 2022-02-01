@@ -1,7 +1,7 @@
 import pywhatkit
 
-pywhatkit.text_to_handwriting( ''' This allows Python users to share and collaborate effectively, benefiting from the solutions others have already created to common  (and sometimes even rare!) problems, as well as potentially contributing their own solutions to the common pool.
+pywhatkit.text_to_handwriting( ''' I lovee open-source! On my GitHub, You will find App source codes , Web based Projects and other . I am currently working on skatestv @skatestv
 
-This guide covers the installation part of the process. For a guide to creating and sharing your own Python projects, refer to the distribution guide. ''' , rgb=( 0 , 0 ,225)
+When I'm not coding, I love reading about Astronomy and bragging about the things I make on My Twitter. ''' , rgb=( 0 , 0 ,225)
 
 )
